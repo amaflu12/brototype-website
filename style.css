@@ -1,0 +1,7 @@
+body{font-family: 'Fira Sans', sans-serif;}
+.bg-black{background-color: black;}
+.bg-white{background-color: white;}
+.about-section p{font-size: 16px;line-height: 28px;}
+.about-section h3{font-size: 40px;}
+.contact-section{background-image: url(https://media.licdn.com/dms/image/C4D0BAQEWqmtyVtZl7Q/company-logo_200_200/0/1653839709176?e=2147483647&v=beta&t=eaj5RDhwLqt122NSrkNWoiWthTaIP4HgM5GJoHo28ws); background-size: 100%;background-repeat: no-repeat;cursor: pointer;}
+.a-tag-in-form{text-decoration: none; color: white;}

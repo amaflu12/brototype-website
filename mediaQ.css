@@ -1,0 +1,78 @@
+
+@media screen and (min-width: 992px) {
+    .navi {
+            padding-left: 5%;
+            padding-right: 5%;
+
+    }
+    .navho {
+        padding-left: 5%;
+    }
+    
+  } 
+
+  @media screen and (min-width: 992px) {
+         .nav-div {
+                    width: 95%;
+
+         }
+  }
+
+  @media screen and (max-width:1400px) {
+    .nav-div {
+                width: 95%;
+
+    }
+
+    
+  }
+
+  @media screen and (min-width:992px) {
+
+    .navbari{
+
+        padding-top: 1%;
+
+    }
+    
+  }
+
+
+
+  @media screen and (max-width:991px) {
+
+    .navbari{
+
+        padding-top: 2%;
+    }
+    
+  }
+
+
+  @media screen and (min-width:100px) {
+    .adjust-height{
+
+        width: 100%;
+        height: auto;
+
+       
+
+    }
+
+
+  }
+
+
+
+  @media screen and (min-width:100px) {
+    .carosal{
+
+        width: 100%;
+
+       
+
+    }
+
+
+  }
+
